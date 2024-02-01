@@ -1,12 +1,12 @@
 body {
   overflow-x: hidden;
-  background-color: #000;
+  background-color: #f493f2;
   font-family: sans-serif, Helvetica, Arial;
-  color: #fff;
+  color: #080808;
 }
 
 .title {
-  color: #8a2be2;
+  color: #e400e0;
   font-size: 50px;
   text-align: center;
   animation-duration: 3s;
@@ -28,7 +28,7 @@ body {
   flex-direction: column;
   width: 30%;
   min-width: 250px;
-  border: 1px solid #434b4d;
+  border: 1px solid #78184a;
   border-radius: 20px;
 }
 
@@ -37,7 +37,7 @@ body {
   height: 100%;
   object-fit: cover;
   object-position: center;
-  border-radius: 15px 15px 0 0;
+  border-radius: 15px 15px 8px 8px;
 }
 
 .movie-card-text {
